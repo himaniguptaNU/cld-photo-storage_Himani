@@ -117,4 +117,4 @@ CREATE TABLE profiles (
 Approximately 3 hours
 
 ## Contact
-Your Name - your.email@example.com
+Himani Gupta - gupta.him@northeastern.edu
