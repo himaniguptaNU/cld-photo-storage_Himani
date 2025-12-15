@@ -1,4 +1,3 @@
-// 
 
 import { serverSupabaseClient, serverSupabaseUser } from '#supabase/server';
 import { createClient } from '@supabase/supabase-js';
